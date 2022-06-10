@@ -11,11 +11,9 @@
 ## 👨‍💻 Tech Skills
 
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Machine_Learning-007500?style=for-the-badge&logo=dependabot&logoColor=white)
-![](https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![](https://img.shields.io/badge/pyspark-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-![](https://img.shields.io/badge/Data_Engineering-FF8C00?style=for-the-badge&logo=dependabot&logoColor=white)
 ![](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
