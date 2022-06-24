@@ -4,18 +4,25 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;I+am+Sandip+Palit...;Glad+to+see+You!!&center=true&size=30">
   </a>
 </h1>
-<h4 align ="center">I am a software developer, who believes in acquiring knowledge each day and sharing it with the community.</h4>
+<h4 align ="center">I am a Data Engineer, who believes in acquiring knowledge each day and sharing it with the community.</h4>
 
 -----
 
 ## 👨‍💻 Tech Skills
 
-![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![](https://img.shields.io/badge/pyspark-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![](https://img.shields.io/badge/pyspark-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+<!--- ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) --->
+<!--- ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) --->
+<!--- ![](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16) --->
 
 -----
 
@@ -53,10 +60,10 @@
 
 -----
 
-<img align="left" width="50%" src='https://github-readme-stats.vercel.app/api?username=sandippalit&show_icons=true&theme=radical&count_private=true&layout=compact'/>
-<img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandippalit&count_private=true&theme=radical&layout=compact"/>
+<img align="left" width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandippalit&show_icons=true&count_private=true&theme=radical&layout=compact"/>
+<img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandippalit&count_private=true&theme=radical&layout=compact"/>
 
-
+<img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandippalit&show_icons=true&count_private=true&theme=radical&layout=compact"/>
 
 <p align="center"> 
   <br>
