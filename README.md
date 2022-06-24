@@ -65,12 +65,6 @@
 
 <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandippalit&show_icons=true&count_private=true&theme=radical&layout=compact"/>
 
-<p align="center"> 
-  <br>
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/sandippalit/count.svg" />
-</p>
-
  <div align="center">
  <h3>Show some ❤️ by giving some ⭐ to my repositories! </h3>
   </div>
