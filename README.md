@@ -27,7 +27,7 @@
 
 ## 💻 Certifications
 
-
+<img src="https://github.com/SandipPalit/SandipPalit/blob/main/certifications.png">
 
 -----
 
@@ -67,11 +67,11 @@
 
 -----
 
-<img align="left" width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandippalit&show_icons=true&count_private=true&theme=radical&layout=compact"/>
-<img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandippalit&count_private=true&theme=radical&layout=compact"/>
+<img align="left" width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandippalit&show_icons=true&count_private=true&theme=github&layout=compact"/>
+<img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandippalit&count_private=true&theme=github&layout=compact"/>
 
-<img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandippalit&show_icons=true&count_private=true&theme=radical&layout=compact"/>
+<img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandippalit&show_icons=true&count_private=true&theme=github&layout=compact"/>
 
-<!--- <img width="100%" src="https://readme-jokes.vercel.app/api?theme=radical&layout=compact"/> --->
+<!--- <img width="100%" src="https://readme-jokes.vercel.app/api?theme=github&layout=compact"/> --->
 
 <div align="center"><h3>Show some ❤️ by giving some ⭐ to my repositories! </h3></div>
