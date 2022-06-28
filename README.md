@@ -1,8 +1,4 @@
-<h3 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h3>
-<h1 align="center">Welcome to Sandip Palit's profile..</h1>
-<h4 align ="center">I am a Data Engineer, who believes in acquiring knowledge each day and sharing it with the community.</h4>
-
-
+<img  align="center" width="100%" src="https://github.com/SandipPalit/SandipPalit/blob/main/sp.png">
 
 -----
 
