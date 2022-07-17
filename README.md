@@ -63,8 +63,8 @@
 
 -----
 
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=sandippalit&show_icons=true&count_private=true&theme=github&layout=compact"/>
-<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandippalit&show_icons=true&count_private=true&theme=github&layout=compact"/>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=sandippalit&show_icons=true&count_private=true&theme=github&layout=compact"/>
+<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandippalit&show_icons=true&count_private=true&theme=github&layout=compact"/>
 
 <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandippalit&show_icons=true&count_private=true&theme=github&layout=compact"/>
 
