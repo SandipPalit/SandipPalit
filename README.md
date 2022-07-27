@@ -4,9 +4,9 @@
 
 <br><br>
 
-<img align="left" width="41%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandippalit&show_icons=true&count_private=true&theme=github&layout=compact"/>
+<img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandippalit&show_icons=true&count_private=true&theme=github&layout=compact"/>
 
-<img align="center" width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandippalit&show_icons=true&count_private=true&theme=github&layout=compact"/>
+<img align="center" width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandippalit&show_icons=true&count_private=true&theme=github&layout=compact"/>
 
 ### 📞 Connect with me
 <a href="https://www.linkedin.com/in/sandip-palit/" alt="Sandip Palit">
