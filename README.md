@@ -1,6 +1,6 @@
 <h1 align="center"><b> Sandip Palit </b></h1>
 <h3 align="center"> Data Engineer</h3>
-<h5 align="center"> I am a Data Engineer with 2+ years of experience in the Data Science domain. My technical skills primarily include SQL, Python, Microsoft Azure, Power BI & Denodo. I am 8 times Microsoft Certified, including Azure Data Engineer Associate and I am also a Kaggle Dataset Expert. Check out my portfolio at <a href="https://sandippalit.github.io/SP-Portfolio/">link</a> </h5>
+<h5 align="center"> I am a Data Engineer with 2+ years of experience in the Data Science domain. My technical skills primarily include SQL, Python, Microsoft Azure, Power BI & Denodo. I am 8 times Microsoft Certified, including Azure Data Engineer Associate. I am also a Kaggle Dataset Expert with highest global ranking < 500. Check out my portfolio at <a href="https://sandippalit.github.io/SP-Portfolio/">link</a> </h5>
 
 <br><br>
 
