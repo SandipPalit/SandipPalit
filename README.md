@@ -19,7 +19,7 @@ flowchart TD;
     end
 
     subgraph Currently_Contributing_to;
-    c1("<b>NewsFeed</b> project")
+    c1("<a href='https://github.com/SandipPalit/NewsFeed'><b>NewsFeed</b></a> project")
     c2("<a href='https://linkfree.eddiehub.io/'><b>LinkFree</b></a> project")
     c1 -.- c2
     end
